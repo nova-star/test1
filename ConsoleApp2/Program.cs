@@ -9,6 +9,7 @@ namespace ConsoleApp2
             Console.WriteLine("Hello World!");
             Console.WriteLine(Add(10, 20));
             Console.WriteLine(AddStrings("one", "two"));
+            Console.WriteLine(AddStrings("three", "four"));
         }
 
         static int Add(int x, int y, int z = 0)
