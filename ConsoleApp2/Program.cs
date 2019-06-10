@@ -10,9 +10,9 @@ namespace ConsoleApp2
             Console.WriteLine(Add(10, 20));
         }
 
-        static int Add(int x, int y)
+        static int Add(int x, int y, int z = 0)
         {
-            return x + y;
+            return x + y + z;
         }
     }
 }
