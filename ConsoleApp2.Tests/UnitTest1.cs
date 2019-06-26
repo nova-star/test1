@@ -8,10 +8,10 @@ namespace ConsoleApp2.Tests
     public class ProgramTest
     {
         [Fact]
-        public void AddTest()
+        public void TestLibFunctions()
         {
-            Program
-
+            var res = ConsoleApp2.Lib.Add(10, 40);
+            Assert.Equal(50, res);
         }
     }
 }

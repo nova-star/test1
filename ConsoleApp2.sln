@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 #
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{E33B098D-D1A0-4AEA-A9BE-415D2B36279A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2.Tests", "ConsoleApp2.Tests\ConsoleApp2.Tests\ConsoleApp2.Tests.csproj", "{036B3AD7-6B42-4200-AD92-3C15D49F4293}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2.Tests", "ConsoleApp2.Tests\ConsoleApp2.Tests.csproj", "{036B3AD7-6B42-4200-AD92-3C15D49F4293}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
