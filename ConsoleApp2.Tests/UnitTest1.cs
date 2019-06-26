@@ -11,7 +11,7 @@ namespace ConsoleApp2.Tests
         public void TestLibFunctions()
         {
             var res = ConsoleApp2.Lib.Add(10, 40);
-            Assert.Equal(505, res);
+            Assert.Equal(50, res);
         }
     }
 }
